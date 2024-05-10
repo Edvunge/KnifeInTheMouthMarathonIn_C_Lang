@@ -1,0 +1,10 @@
+Filosofia da Programaçao em C
+
+C é uma lingua que reflete um pouco a filosofia subjacente ao Unix, incorporando, alias, algumas das suas 
+caracteristicas (case sensitive, por exemplo).
+
+O sistema operacional Unix possui um grande conjunto de comandos, sendo cada um deles responsavel por 
+realizar uma só tarefa.
+
+Caso se queira realizar uma tarefa complexa, pode-se recorrer a um conjunto de comandos do sistema Unix,
+encadeando-os atraves de pipes ou outras estruturas de comunicação, obtendo assim o resultado pretendido.

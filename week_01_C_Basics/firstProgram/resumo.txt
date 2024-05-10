@@ -1,0 +1,27 @@
+RESUMO:
+
+* Em C, um programa começa com a função main()
+
+* O codigo a executar é colocado entre {}
+
+* Um bloco é formado por qualquer conjunto de intruções entre {}
+
+* Cada instrução deve ser seguida de ponto-e-virgula (;).
+
+* A disposição do codigo é arbitraria e depende das preferencias de cada programador.
+
+* C faz distição entre minusculas e maiusculas - diz-se que é Case Sensitive
+
+* As strings em C são delimitadas pelo caractere  aspas " 
+
+* Para escrever uma mensagem na tela usa-se a funcao printf().
+
+* A funcao printf nao faz parte da linguagem C, Pretence a sua extensa biblioteca de funcoes
+
+* Para termos acesso a esta e outras funcoes de entrada/saida devemos incluir nos nossos programas o arquivo
+stdio.h atraves da diretiva ao pre-processador #include <stdio.h>
+
+
+* As linhas começadas por # (#include, #define etc.) nao sao C, mas sim diretivas ao pre-processador.
+por isso nao devem ser seguidas de ponto-e-virgula 
+

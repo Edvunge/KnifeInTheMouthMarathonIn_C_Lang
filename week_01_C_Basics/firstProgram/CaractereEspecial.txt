@@ -1,0 +1,22 @@
+O CARACTERE ESPECIAL \
+
+O simbolo \ é utilizado para retirar o significado especial que um caractere apresenta. 
+No caso do caractere aspas (") , retirar-lhe o significado de delimitador, passando a ser considerado simplemente
+como o caractere aspas.
+
+A lista completa dos caracteres que podem ter que ser representados, precedidos do caractere especial \
+
+\7                              Bell (sinal sonoro do computador)
+\a                              Bell (sinal sonoro do computador)
+\b                                          BackSpace
+\n                                  New Line (mudança de linha)
+\r                                      Carrage Return
+\t                                      Tabulacao Horizontal
+\v                                      Tabulacao Vertical
+\\                          Caractere \ (forma de representar o proprio caractere especial \ )
+\'                                  Caractere ' (aspas simples)
+\"                                      Caractere " (aspas)
+\?                                      Caractere ? (ponto de interrogacao)
+\000                                    Carcatere cujo codigo ASCII em Octal é 000
+\Xnm                                Caractere cujo codigo ASCII em Hexadecimal é nm
+%%                                                  Caractere % 
