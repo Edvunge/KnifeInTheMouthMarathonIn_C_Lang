@@ -5,13 +5,22 @@ week 01
 
 1. C Basics
 
-C Language Introduction
-Features of C Programming Language
-C Programming Language Standard
-Setting Up C Development Environment
-C Hello World Program
-Compiling a C Program: Behind the Scenes
-C Comments
-Tokens in C
-C Identifiers
-Keywords in C
+1.1  C Language Introduction
+
+1.2  Features of C Programming Language
+
+1.3  C Programming Language Standard
+
+1.4  Setting Up C Development Environment
+
+1.5  C Hello World Program -> (FEITO)
+
+1.6  Compiling a C Program: Behind the Scenes
+
+1.7  C Comments
+
+1.8  Tokens in C
+
+1.9  C Identifiers
+
+1.10 Keywords in C

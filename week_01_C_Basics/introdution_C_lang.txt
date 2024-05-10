@@ -1,0 +1,10 @@
+EDITING THE PROGRAM
+
+simple text editors include vim, gedit on linux, or NotePad on windows, cross platform editors also
+include Visual Studio Code or Sublime Text.
+
+
+COMPILING AND RUNNING THE PROGRAM
+
+To run the program, this source file (hello.c) first  needs to be compiled into an executable 
+file (e.g. hello on Unix/linux system or hello.exe on windows). this is done using a compiler for the C language.

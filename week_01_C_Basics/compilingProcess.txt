@@ -1,0 +1,19 @@
+COMPILE USING GCC
+
+GCC (Gnu Compiler Collection) is a widely used C compiler. to use it, open a terminal, 
+use the command line to navigate to the source file's location and then run:
+
+gcc hello.c -o hello
+
+
+We can also use the warning options -Wall -Wextra  -Werror
+
+gcc  -Wall -Wextra  -Werror -o hello hello.c
+
+
+
+Using the clang compiler 
+
+clang  -Wall -Wextra  -Werror -o hello hello.c
+
+

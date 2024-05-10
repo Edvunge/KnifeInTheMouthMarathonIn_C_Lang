@@ -1,0 +1,26 @@
+DELIMITED COMMENTS
+
+/* this is a comment */
+
+
+/* this is a 
+multi-line 
+comment */
+
+
+/*
+* this is a
+* multi-line
+* comment 
+*/
+
+DELIMITED COMMENTS
+
+// this is a comment 
+
+
+
+// each of these lines are a single-line comment
+// note how each must start with
+// the double forward-slash
+
