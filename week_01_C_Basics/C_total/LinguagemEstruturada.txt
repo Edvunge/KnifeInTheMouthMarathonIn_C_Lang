@@ -1,0 +1,26 @@
+A caracteristica especial de uma linguagem estruturada é a comportatimentalização do codigo e dos dados. 
+Trata-se da habilidade de uma linguagem seccionar e esconder do resto do programa todas as informações 
+necessarias para se realizar uma tarefa especifica. Uma das maneiras de conseguir essa comportatimentalização
+é pelo uso de sub-rotinas que empregam variaveis locais (temporarias).
+
+A seguir estão alguns exemplos de linguagens estruturadas e não estruturadas.
+
+Não estruturadas                                Estruturadas 
+    FORTRAN                                         PASCAL
+    BASIC                                           ADA
+    COBOL                                           C / C++
+                                                    MODULA-2
+
+
+Linguagens estruturadas tendem a ser modernas, De fato, a marca de uma linguagem antiga de computador 
+é não estruturada. Hoje, a maioria dos programadores considera as linguagens estruturadas mais faceis de 
+pragramar e fazer manutenção.
+
+    A principal componente estrutural de C é a função - a sub-rotinas isolada de C. em C, 
+    funções são os blocos de construção em que toda a atividade do programa ocorre, 
+    Elas admitem que voce defina e codifique separadamente as diferetes tarefas de um programa, 
+    permitindo, então que seu programa seja modular.
+
+
+
+    

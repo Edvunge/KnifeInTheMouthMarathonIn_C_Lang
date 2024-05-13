@@ -1,0 +1,30 @@
+C é uma linguagem para programadores
+
+Surpreendentemente, nem todas as linguagens de computador são para programadores, 
+Considere os exemplos classicos de linguagens para não-programadores: COBOL, BASIC.
+
+Em contraposição, C foi criada, influenciada e testada em campo por programadores profissionais.
+
+Inicialmente, C era usada na progração de sistema. Um programa de sistema forma uma porção do sistema operacional do 
+computador ou de seus utilitarios de suporte. Por exemplo, os programas que seguem são frequentemente
+chamados de programas de sistema: 
+
+* Sistemas Operacionais
+
+* Interpretadores
+
+* Editores
+
+* Programas de planilhas eletronicas
+
+* Compiladores
+
+* Gerenciadores de banco de dados
+
+Em virtude da sua portabilidade e eficiencia, a medida que C cresceu em popularidade, 
+muitos programadores começaram a usa-la para programar todas as tarefas. 
+Por haver compiladores C para quase todos os computadores, é possivel tomar um codigo escrito para uma maquina,
+compila-lo e roda-lo em outra com pouca ou nenhuma modificação. 
+
+
+

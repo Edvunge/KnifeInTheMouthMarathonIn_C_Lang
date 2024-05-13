@@ -1,0 +1,10 @@
+A tabela abaixo mostra as palavras reservadas, que combinadas com a sintaxe formal de C, 
+formam a linguagem de programação C, Destas, 27 foram definidas pela versao original de C.
+
+enum ,          const,          signed,         void,           volatile.
+break,          else,           int,            long,           switch
+auto,           double,         struct          case,           enum
+char,           extern,         return,         short,          union
+const,          float,          short,          unsigned        continue
+default,        for,            signed,         void,           goto
+sizeof          do,             if,             static,         while            
