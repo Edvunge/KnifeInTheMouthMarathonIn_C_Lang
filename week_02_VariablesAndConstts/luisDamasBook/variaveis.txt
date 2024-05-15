@@ -1,0 +1,34 @@
+VARIAVEIS
+
+Sempre que desejarmos guardar um valor que, por qualquer razao, não seja fixo, 
+devemos faze-lo utilizando variaveis.
+
+Como o seu proprio nome indica, o valor contido em uma variavel pode variar ao longo da execução de um programa.
+
+Uma variavel deve ser sempre definida antes de ser usada. A definição de uma variavel indica ao compilador
+ qual o tipo de dado que fica atribuido ao nome que indicarmos para essa variavel.
+
+ tipo var1 [, var2, var3, ... var_n];
+
+
+ int i;
+ char ch1, novo_char;
+ float pi, raio, perimetro;
+ double total, k123;
+
+
+ main() {
+    declaracao de variaveis
+
+    instrução1;
+    instrução2;
+ }
+
+ As variaveis São sempre armazenadas em memoria, e são uma forma simples de referenciar posições de memoria.
+ O tipo que lhes esta associado indica o numero de bytes que serao utilizadas para guardar um valor nessa variavel.
+
+
+
+ 1. Crie um algoritmo que leia uma matriz 4x5 de inteiros, calcule e imprima a
+soma de todos os seus elementos.
+
