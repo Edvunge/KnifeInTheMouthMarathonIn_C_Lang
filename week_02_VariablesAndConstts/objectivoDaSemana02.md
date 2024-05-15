@@ -13,3 +13,8 @@
 2.6 Internal Linkage and External Linkage in C
 
 2.7 Global Variables in C
+
+
+// Assuntos extras estudados:
+
+NOMES DE IDENTIFICADORES 

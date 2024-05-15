@@ -1,0 +1,64 @@
+Variaveis
+
+Como voce provavelmente sabe, uma variavel é uma posição nomeda de memoria, 
+que é usada para guardar um valor que pode ser modificado pelo programa. Todas as variaveis em C devem ser 
+antes declaradas antes de serem usadas.
+A forma geral de uma declaração é:  tipo lista_de_variaveis;
+
+    Aqui, tipo deve ser um tipo de dado valido em C mais  quaisquer modificadores; 
+    e lista_de_variaveis pode consistir em um ou mais nomes de identificadores separados por virgulas.
+    Aqui estão algumas declarações:
+
+
+    int i, j, l;
+    short int si;
+    unsigned int ui;
+    double balance, profit, loss;
+
+    Lembre-se de que, em C, o nome de uma variavel não tem nenhuma relação com seu tipo.
+
+
+
+    ONDE AS VARIAVEIS SÃO DECLARADAS 
+
+    As variaveis serão declaradas em tres lugares basicos; dentro de funções, na definição dos parametros
+    das funções e fora de todas as funções. Estas são variaveis locais, parametros formais e variaveis globais,
+    respectivamente. 
+
+
+VARIAVEIS LOCAIS 
+
+Variaveis que são declaradas dentro de uma função são chamadas de variaveis locais, Em algumas literaturas de C,
+variaveis locais são referidas como variaveis automaticas, porque em C voce pode usar a palavra-chave auto 
+para declara-las.
+
+Variaveis locais existem apenas enquanto o bloco de codigo em que foram declaradas esta sendo executado.
+Ou seja, uma variavel local é criada na entrada de seu bloco e destruida na saida.
+
+O bloco de codigo mais commum em que as variaveis locais foram declaradas é a função. 
+Por exemplo, considere as seguintes funções: 
+
+
+void func1(void) {
+    
+    int x;
+    
+    x = 10;
+
+}
+
+void func2(void) {
+    
+    int x;
+
+    x = -199;
+    
+}
+
+
+
+
+
+
+
+

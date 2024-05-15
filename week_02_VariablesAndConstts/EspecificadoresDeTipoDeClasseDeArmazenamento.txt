@@ -1,0 +1,38 @@
+Especificadores de Tipo de Classe de Armazenamento
+
+Há quarto Especificadores de classe de Armazenamento suportados por C.
+
+Extern 
+Static
+Register
+Auto
+
+Esses Especificadores são usadas para informar ao compilador como a variavel deve ser Armazenada.
+
+O Especificadores de Armazenamento precede o resto da declaração da variavel. Sua forma geral é:
+
+especificador_de_armazenamento tipo nome_da_variavel;
+
+EXTERN 
+
+uma vez que C permite que modulos de uma programa grande sejam compilados separadamente para então 
+serem linkeditados juntos, uma forma de aumentar a velocidade de compilação e ajudar no 
+gerenciamento de projetos. 
+
+
+extern int x, y;
+extern char ch;
+
+func22(void) 
+{
+    x = y/10;
+}
+
+func23()
+{
+    y = 10;
+}
+
+
+
+

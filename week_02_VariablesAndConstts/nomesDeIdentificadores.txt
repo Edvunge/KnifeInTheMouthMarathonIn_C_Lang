@@ -1,0 +1,19 @@
+
+NOMES DE IDENTIFICADORES 
+
+Em C, os nomes de variaveis, funções, rotulos e varios outros objectivos definidos pelo usuario 
+sao chamados de identificadores. Esses identificadores podem variar de um a diversos caracteres. 
+O primeiro caractere deve ser uma letra ou um sublinhado e os caracteres subsequetes devem ser letras, 
+numeros ou sublinhados. Aqui estão alguns exemplos de nomes de identificadores corretos e incorretos:
+
+Corretos                Incorretos 
+count                     1count
+test23                   hi!there
+high_balance            high...balance
+
+
+O padrão C ansi determina que identificadores podem ter qualquer tamanho, mas pelo menos os primeiros 6 
+caracteres devem ser significativos se o identificador estiver envolvido em um processo externo de linkedição
+
+Esses identificadores são chamados nomes externos, incluem nomes de funções e variaveis globais que são 
+compartilhadas entre arquivos. 
