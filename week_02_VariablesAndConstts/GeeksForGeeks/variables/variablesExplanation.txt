@@ -1,0 +1,48 @@
+There are 3 aspects of defining a variable:
+
+1.Variable Declaration (declaração de variaveis)
+
+2.Variable Definition (definição de variaveis)
+
+3.Variable Initialization (inicialização de variaveis)
+
+
+
+1.Variable Declaration (declaração de variaveis)
+
+A declaração de variavel em C informa ao compilador sobre a exixtencia da variavel com o nome e tipo de dados fornecidos.
+Quando a variavel é declarada, o compilador aloca automaticamente a memória para ela.
+
+
+2.Variable Definition (definição de variaveis)
+
+Na definição de uma variavel C, o compilador aloca alguma memória e algum valor para ela.
+Uma variavel definida conterá algum valor aleatório de lixo até que não seja inicializada.
+
+EXEMPLO:
+
+int var;
+caractere var2;
+
+
+
+3.Variable Initialization (inicialização de variaveis)
+
+A inicialização de uma variavel é o processo em que o usuário atribu algum valor significativo a variavel.
+
+EXEMPLO:
+
+int var;  // definição de variavel
+var = 10; // inicialização
+
+ou 
+
+int var = 10; // declaração e definição de variaveis
+
+
+
+
+
+
+
+

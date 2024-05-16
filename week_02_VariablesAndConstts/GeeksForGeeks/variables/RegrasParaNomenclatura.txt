@@ -1,0 +1,30 @@
+Regras para Nomear variaveis em C
+
+voce pode atribuir qualquer nome a variavel, desde que siga as seguintes regras:
+
+1. Um nome de variavel deve conter apenas letras, digitos e sublinhado.
+
+2. O nome de uma variavel deve começar apenas com um alfabeto ou sublinhado. Não pode começar com um digito.
+
+3. Nenhum espaço em branco é permitido no nome da variavel.
+
+4. O nome de uma variavel não deve ser Nenhuma palavra ou palavra-chave reservada.
+
+
+Tipos de variaveis C 
+
+As variaveis C podem ser classificadas nos seguintes tipos:
+
+1. Variaveis Locais
+
+2. Variaveis Globais
+
+3. Variaveis Estáticas
+
+4. Variaveis Automáticas
+
+5. Variáveis Externas
+
+6. Registrar Variáveis
+
+
