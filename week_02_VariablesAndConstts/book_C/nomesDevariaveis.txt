@@ -1,0 +1,32 @@
+NOMES DE VARIAVEIS
+
+é importante conhecer as regras dos nomes de variaveis. 
+Em C os nomes de variaveis seguem criterios: 
+
+* São aceitos somente letras, números e o Caractere "_".
+
+* Deve começar com letras ou com o Caractere "_"
+
+* Podem possuir numeros desde que não como primeiro Caractere.
+
+* Não podem ter espaços.
+
+
+Exemplos: idade, idade1, idade_1, _idade, _idade1, idade01, _idade01, melhor_idade
+
+Uma convenção na linguagem C é que todos os nomes de variaveis devem.
+
+possuir apenas letras minusculas pois letras maiusculas são reservadas para nomes de  "constantes" 
+na linguagem C (que veremos adiante). Por se tratar de convenção, o codigo ira funcionar normalmente se 
+se voce utilizar letras maiusculas, contudo, 
+não é recomendado por dificultar a leitura do codigo por outros programadores.
+
+
+
+
+
+
+
+
+
+

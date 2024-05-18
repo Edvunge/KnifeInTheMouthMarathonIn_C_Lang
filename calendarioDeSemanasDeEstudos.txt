@@ -1,0 +1,230 @@
+
+
+
+
+Week - 1 - Basics
+
+	Sexta Feira   (10 maio) FEITO
+	Sabado        (11 maio) FEITO
+	Domingo       (12 maio) FEITO
+	Segunda Feira (13 maio) FEITO
+	Terça Feira   (14 maio) FEITO
+
+
+Week - 2 - Variables and Constant
+
+	Quarta-feira (15 maio) FEITO
+	Quinta Feira (16 maio) FEITO 
+	Sexta  Feira (17 maio) FEITO
+	Sabado       (18 maio)
+	Domingo      (19 maio)
+
+
+Week - 3
+
+	Segunda Feira (20 maio)
+	Terça   Feira (21 maio)
+	Quarta  Feira (22 maio)
+	Quinta  Feira (23 maio)
+	Sexta   Feira (24 maio)
+
+
+Week - 4
+
+	Sabado        (25 maio)
+	Domingo       (26 maio)
+	Segunda Feira (27 maio)
+	Terça   Feira (28 maio)
+	Quarta  Feira (29 maio)
+
+
+Week - 5
+
+	Quinta 	Feira (30 maio)
+	Sexta  	Feira (31 maio)
+	Sabado 		  (01 junho)
+	Domingo       (02 junho)
+	Segunda Feira (03 junho)
+
+
+Week - 6
+
+	Terça  Feira (04 junho)
+	Quarta Feira (05 junho)
+	Quinta Feira (06 junho)
+	Sexta  Feira (07 junho)
+	Sabado       (08 junho)
+
+
+Week - 7
+
+	Domingo 		(09 junho)
+	Segunda Feira 	(10 junho)
+	Terça 	Feira 	(11 junho)
+	Quarta  Feira 	(12 junho)
+	Quinta  Feira   (13 junho)
+
+
+Week - 8
+
+	Sexta    Feira  (14 junho)
+	Sabado          (15 junho)
+	Domingo         (16 junho)
+	Segunda  Feira  (17 junho)
+	Terça    Feira  (18 junho)
+
+
+Week - 9
+
+	Quarta  Feira (19 junho)
+	Quinta  Feira (20 junho)
+	Sexta   Feira (21 junho)
+	Sabado   	  (22 junho)
+	Domingo       (23 junho)
+
+
+Week - 10
+
+	Segunda  Feira (24 junho)
+	Terça    Feira (25 junho)
+	Quarta   Feira (26 junho)
+	Quinta   Feira (27 junho)
+	Sexta    Feira (28 junho)
+
+
+Week - 11
+
+	Sabado        (29 junho)
+	Domingo 	  (30 junho)
+	Segunda Feira (01 julho)
+	Terça  	Feira (02 julho)
+	Quarta 	Feira (03 julho)
+
+
+Week - 12
+
+	Quinta  Feira (04 julho)
+	Sexta 	Feira (05 julho)
+	Sabado 		  (06 julho)
+	Domingo       (07 julho)
+	Segunda Feira (08 julho)
+
+
+Week - 13
+
+	Terça  Feira (09 julho)
+	Quarta Feira (10 julho)
+	Quinta Feira (11 julho)
+	Sexta  Feira (12 julho)
+	Sabado       (13 julho)
+
+
+Week - 14
+
+	Domingo       (14 julho)
+	Segunda Feira (15 julho)
+	Terça   Feira (16 julho)
+	Quarta  Feira (17 julho)
+	Quinta  Feira (18 julho)
+
+
+Week - 15
+
+	Sexta  Feira  (19 julho)
+	Sabado        (20 julho)
+	Domingo       (21 julho)
+	Segunda Feira (22 julho)
+	Terça   Feira (23 julho)
+
+
+Week - 16
+
+	Quarta  Feira (24 julho)
+	Quinta Feira  (25 julho)
+	Sexta Feira   (26 julho)
+	Sabado        (27 julho)
+	Domingo       (28 julho)
+
+
+Week - 17
+
+	Segunda Feira (29 julho)
+	Terça  Feira  (30 julho)
+	Quarta Feira  (31 julho)
+	Quinta Feira  (01 agosto)
+	Sexta  Feira  (02 agosto)
+
+
+Week - 18
+
+	Sabado        (03 agosto)
+	Domingo 	  (04 agosto)
+	Segunda Feira (05 agosto)
+	Terça  	Feira (06 agosto)
+	Quarta 	Feira (07 agosto)
+
+
+Week - 19
+
+	Quinta  Feira (08 agosto)
+	Sexta   Feira (09 agosto)
+	Sabado        (10 agosto)
+	Domingo       (11 agosto)
+	Segunda Feira (12 agosto)
+
+
+Week - 20
+
+	Terça  Feira (13 agosto)
+	Quarta Feira (14 agosto)
+	Quinta Feira (15 agosto)
+	Sexta  Feira (16 agosto)
+	Sabado       (17 agosto)
+
+
+Week - 21
+
+	Domingo       (18 agosto)
+	Segunda Feira (19 agosto)
+	Terça Feira   (20 agosto)
+	Quarta  Feira (21 agosto)
+	Quinta  Feira (22 agosto)
+
+
+Week - 22
+
+	Sexta  Feira   (23 agosto)
+	Sabado         (24 agosto)
+	Domingo 	   (25 agosto)
+	Segunda  Feira (26 agosto)
+	Terça    Feira (27 agosto)
+
+
+Week - 23
+
+	Quarta  Feira (28 agosto)
+	Quinta  Feira (29 agosto)
+	Sexta   Feira (30 agosto)
+	Sabado 		  (31 agosto)
+	Domingo       (01 setembro)
+
+
+Week - 24
+
+	Segunda Feira   (02 setembro)
+	Terça   Feira   (03 setembro)
+	Quarta  Feira   (04 setembro)
+	Quinta  Feira   (05 setembro)
+	Sexta   Feira   (06 setembro)
+
+
+Week - 25
+
+	Sabado        (07 setembro)
+	Domingo 	  (08 setembro)
+	Segunda Feira (09 setembro)
+	Terça   Feira (10 setembro)
+	Quarta  Feira (11 setembro)
+
+
+

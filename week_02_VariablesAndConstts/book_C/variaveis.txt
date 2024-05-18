@@ -1,0 +1,46 @@
+VARIAVEIS
+
+Na linguagem C existem basicamente tres tipos de dados: números inteiros, números reais e caracteres.
+Para cada tipo de dados existem variaveis que podem assumir diferentes tamanhos para armazenar as 
+informações conforme veremos a seguir.
+
+TIPOS BASICOS DE DADOS NA LINGUAGEM C.
+
+* Char: Caractere: O valor armazenado é um Caractere. caracteres geralmente 
+são armazenados em codigos (usualmente o codigo ASCII).
+
+* Int: Número Inteiro é o tipo padrão e o tamanho do conjunto que pode ser representado normalmente 
+depende da maquina em que o programa esta rodando.
+
+* Float: Número em ponto flutuante de precisão simples. são conhecidos normalmente como numeros reais.
+
+* Void: Este tipo serve para indicar que um resultado não tem um tipo definido.
+Uma das aplicações deste tipo 
+em C é criar um tipo vazio que pode posteriormente ser modificado para um dos tipos anteriores.
+
+
+TIPOS NUMERICOS BASICOS
+
+Para armazenar números inteiros, temos o tipo int. 
+Para criar uma variavel deste tipo utilizamos o seguinte formato:
+
+<tipo> <nome da variavel>;
+
+int idade;
+
+idade = 18;
+
+
+int idade, idade1, idade2, idade2 = 35, temperatura;
+
+
+
+int a = 7, b = 4, soma;
+soma = a + b;
+printf("%i", soma);
+
+
+
+
+
+
