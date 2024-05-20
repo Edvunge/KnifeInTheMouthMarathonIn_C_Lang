@@ -1,0 +1,6 @@
+C permite que voce atribua o mesmo valor a muitas variaveis usando atribuiçoes multiplas em um único comando,
+Por exemplo, esse fragmento de programa atribui a x, y, e z o valor 0: 
+
+x = y = z = 0;
+
+Em programas profissionais, valores comuns são atribuidos a variaveis usando esse metodo.

@@ -1,0 +1,36 @@
+Os operadores -, +, * e / trabalham em C da mesma forma em que na materia das outras linguagens.
+Eles podem ser aplicados em quase qulquer tipo de dado interno permitido em C.
+
+Quando / é aplicado a um inteiro ou caractere, qualquer resto é truncado. 
+Por exemplo, 5/2 será igual a 2 em uma divisão inteira.
+
+
+OPERADORES ARITMETICOS
+------------------------
+Operador            Ação
+   -                Subtracção, também menos unário
+   +                Adição
+   *                Multiplicação
+   /                Divisão
+   %                Modulo da divisão (resto)
+   --               Decremento
+   ++               Incremento
+
+Operador módulo % também trabalha em C da mesma forma que em outras linguagens, 
+devolvendo o resto de uma divisão inteira. Contudo, % não pode ser usado nos tipos em ponto flutuante. 
+O seguinte framento de codigo ilustra %.
+
+
+int x, y;
+
+x = 5;
+y = 2;
+
+printf("%d", x/y);
+printf("%d", x%y);
+
+x = 1;
+y = 2;
+
+
+printf("%d %d", x/y, x%y);

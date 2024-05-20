@@ -1,0 +1,33 @@
+Em C, os nomes de variaveis, funções, rotulos e varios outros objetos definidos pelo usuario são chamados
+de identificadores, Esses identificadores podem variar de um a diversos caracteres.
+O primeiro caracter deve ser uma letra ou um sublinhado e os caracteres subsequentes deve ser uma letra 
+ou um sublinhado e os caracteres subsequentes devem ser letras, numeros ou sublinhados. 
+Aqui estão alguns exemplos de nomes de identificadores corretos e incorretos:
+
+                Corretos            Incorretos 
+                count               1count
+                test23              hi!there
+                high_balance        high...balance
+
+O padrão C ANSI determina que identificadores podem ter qualquer tamanho, 
+mas pelo menos os primeiros 6 caracteres devem ser significativos se o identificador 
+estiver envolvido em um processo externo de linkedificação.
+ Esses identificadores, chamados nomes externos, incluem nomes de funções e variaveis globais que são 
+ compartilhadas entre arquivos.
+
+ Um nome de identificador pode ser maior que o numero de caracteres significativos reconhecidos pelo 
+ compilador, Porém, os caracteres que ultrapassarem o limite serão ignorados. 
+ Por exemplo, se seu compilador reconhece 31 caracteres significativos, os seguintes identificadores 
+ serão considerados por ele como sendo iguais:
+
+
+    Nomes_de_identificadores_excessivamente_longos_sao_incomodos
+    Nomes_de_identificadores_excessivamente_longos_sao_incomodos_para_usar
+
+Em C, letras maiusculas e minusculas são tratadas diferentemente. 
+Logo, count, Count e COUNT são tres identificadores distintos. 
+Em alguns ambientes, o tipo da letra (maiusculas ou minuscula) dos nomes de funções e de variaveis 
+(mas a maioria dos ambientes atuais suporta linkedificação sensivel a caixa alta ou baixa). 
+
+
+

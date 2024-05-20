@@ -1,0 +1,13 @@
+Exceto o void, os tipos de dados básicos podem ter vários modificadores precedendo-os.
+Um modificadores é usado para alterar o significado de um tipo básico para adpta-lo mais 
+precisamente as necessidades de diversas situações. 
+A lista de modificadores é mostrada aqui:
+
+signed
+unsigned
+long
+short
+
+os modificadores signed, short, long e unsigned podem ser aplicados aos tipos básicos caractere 
+e inteiro. Contudo, long também pode ser aplicado a double. (Note que ANSI elimina o long float
+porque ele tem o mesmo significado de um double)
