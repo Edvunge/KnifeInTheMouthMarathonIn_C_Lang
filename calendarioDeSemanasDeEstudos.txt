@@ -16,13 +16,13 @@ Week - 2 - Variables and Constant
 	Quarta-feira (15 maio) FEITO
 	Quinta Feira (16 maio) FEITO 
 	Sexta  Feira (17 maio) FEITO
-	Sabado       (18 maio)
-	Domingo      (19 maio)
+	Sabado       (18 maio) FEITO
+	Domingo      (19 maio) FEITO
 
 
-Week - 3
+Week - 3 - C Data Types
 
-	Segunda Feira (20 maio)
+	Segunda Feira (20 maio) DOING
 	Terça   Feira (21 maio)
 	Quarta  Feira (22 maio)
 	Quinta  Feira (23 maio)
