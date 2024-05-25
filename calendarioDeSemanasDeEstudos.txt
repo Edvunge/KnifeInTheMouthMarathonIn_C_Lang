@@ -22,16 +22,16 @@ Week - 2 - Variables and Constant
 
 Week - 3 - C Data Types
 
-	Segunda Feira (20 maio) DOING
-	Terça   Feira (21 maio)
-	Quarta  Feira (22 maio)
-	Quinta  Feira (23 maio)
-	Sexta   Feira (24 maio)
+	Segunda Feira (20 maio) FEITO
+	Terça   Feira (21 maio) FEITO
+	Quarta  Feira (22 maio) FEITO
+	Quinta  Feira (23 maio) FEITO
+	Sexta   Feira (24 maio) FEITO
 
 
-Week - 4
+Week - 4 - Input_Output
 
-	Sabado        (25 maio)
+	Sabado        (25 maio) DOING
 	Domingo       (26 maio)
 	Segunda Feira (27 maio)
 	Terça   Feira (28 maio)
