@@ -31,10 +31,10 @@ Week - 3 - C Data Types
 
 Week - 4 - Input_Output
 
-	Sabado        (25 maio) DOING
-	Domingo       (26 maio)
-	Segunda Feira (27 maio)
-	Terça   Feira (28 maio)
+	Sabado        (25 maio) FEITO
+	Domingo       (26 maio) FEITO
+	Segunda Feira (27 maio) FEITO
+	Terça   Feira (28 maio) 
 	Quarta  Feira (29 maio)
 
 
