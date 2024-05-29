@@ -1,0 +1,7 @@
+EXPRESSOES
+
+Operadores, constantes e variaveis são os elementos que constituem as expressões.
+Uma expressão em C é qualquer combinação valida desses elementos. 
+Uma vez que a maioria das expressões tende a seguir as regras da algebra, 
+elas são frequentemente tomadas como certas. 
+Contudo, existem uns poucos aspectos de expressões que se referem especificamente a C. 
