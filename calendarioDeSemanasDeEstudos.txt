@@ -44,12 +44,12 @@ Week - 5 - Operators
 	Sexta  	Feira (31 maio)  - FEITO
 	Sabado 		  (01 junho) - FEITO
 	Domingo       (02 junho) - FEITO
-	Segunda Feira (03 junho)
+	Segunda Feira (03 junho) - FEITO
 
 
-Week - 6
+Week - 6 - Control Statements Decision-Making
 
-	Terça  Feira (04 junho)
+	Terça  Feira (04 junho) - DOING
 	Quarta Feira (05 junho)
 	Quinta Feira (06 junho)
 	Sexta  Feira (07 junho)
