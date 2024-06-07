@@ -1,0 +1,8 @@
+IF-ELSE
+    A instrução if-else é uma instrução de controle de fluxo da linguagem C.
+    Permite indicar quais as circustancias em que se deve executar instrução ou conjunto de instruções.
+
+    if (condição)
+        instrução;
+    [ else instrução2; ]
+
