@@ -52,16 +52,16 @@ Week - 6 - Control Statements Decision-Making
 	Terça  Feira (04 junho) - FEITO
 	Quarta Feira (05 junho)	- FEITO
 	Quinta Feira (06 junho) - FEITO
-	Sexta  Feira (07 junho) - DOING
-	Sabado       (08 junho)
+	Sexta  Feira (07 junho) - FEITO
+	Sabado       (08 junho) - FEITO 
 
 
-Week - 7
+Week - 7 - Functions
 
-	Domingo 		(09 junho)
-	Segunda Feira 	(10 junho)
-	Terça 	Feira 	(11 junho)
-	Quarta  Feira 	(12 junho)
+	Domingo 		(09 junho) - FEITO
+	Segunda Feira 	(10 junho) - FEITO
+	Terça 	Feira 	(11 junho) - FEITO
+	Quarta  Feira 	(12 junho) - DOING
 	Quinta  Feira   (13 junho)
 
 
